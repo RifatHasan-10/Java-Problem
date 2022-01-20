@@ -1,0 +1,9 @@
+class print_your_name_10 {
+    public static void main(String[] args) {
+        int i;
+        for(i=1;i<=10;i++)
+        {
+            System.out.println(i+". Rifat Hasan");
+        }
+    }
+}
